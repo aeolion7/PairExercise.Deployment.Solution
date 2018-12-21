@@ -24,4 +24,4 @@ deploy:
   provider: heroku
   app: icanhastestdeploy # see README
   api_key:
-    secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+    secure: C9lp/lb3T4vz6QCSFlb/IT1JwBMjZBfrPmqo0x5qYv11Y7Mb90laxFQupPhg/jZPUT9By5Giv3MBWUK9O1ZkbpmAKj6pXcIkUwjC1Z42HJEeKDAcbAaSe9FQuzT+ZEk64iite1KKQhZlc4WvC5mvVIYKgKHZBq6IZ44C8P+4T9SiRJMRjaqrlAS5Ra7ut3eww31XJ33HW8hy6KXJa5qYNh3/fzccnJQgOjUO7rU+tQMZDveFo+0PkYfIA2ZNQbWeZ6n/H3scZ/PrTk9UPQgFgTax4u3w/wlJRn4wdTr4E1+79JL1f5PRTsYCnf2Z49zqk6ElNTlyhVkPj1KAB49ls0AB3fiJSocw402y2UBbG+tNZHqn7iYDkEinZJ2mjPcOwy7t25b/l50iteOC/kTb6nzUMwqkIskI1wlL/tpc6+tt97Kt53FWKDSU00+Ip9IZNpcHhwoirsdi7bk8g4m/SLKixVAgeYxwee3Hq/wQSaHyH/XwAc3wu/jszCT5ktdBmZXOLjhmPC78KOeCwS2c2EnUkRQsQQ9COQXGRGW/tVPW/AyVeKjXOBmiQt8Sgx0oe6rF61+ko0G8Pw0bR4mExoA5mrHIhs1b3v/lhmSPJrLrP/s+wY9O9xOmQy1ckoqm/GP0wtP6SwbAjnVIwpxwyJkDdD6yzGVIM3+yn55JebM=
